@@ -1,6 +1,6 @@
 ﻿# C-Sharp-Auction-House
  
- Run the program to open the terminal window, and the user is prompted to 
+ Run the program from Nathan Wang CAB201 Auction House/AuctionHouse/Program.cs to open the terminal window, and the user is prompted to 
  
  1) Register
  2) Login
